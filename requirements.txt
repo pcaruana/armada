@@ -7,4 +7,4 @@ PyYAML==3.12
 supermutes==0.2.5
 
 falcon==1.1.0
-gunicorn==19.7.1
+gunicorn==21.2.0
